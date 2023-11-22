@@ -54,4 +54,4 @@ jobs:
           app-name: 'BEEP-BOOP-ON-THE-INTERWEBS'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0038F36176FA495091D67DF299EE460F }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6275B1E6D5C34BD6A9EB60C92F5A6671 }}
